@@ -1,19 +1,15 @@
 - Git
-  git-scm.com
-  `git config --global user.name "manuel-heav"`
-  ` git config --global user.email "manuelheav32@gmail.com"`
-  ` winget install --id GitHub.cli`
-  ` gh auth login`
+  git-scm.com -`git config --global user.name "manuel-heav"` -` git config --global user.email "manuelheav32@gmail.com"` -` winget install --id GitHub.cli` -` gh auth login`
 
 - Download Node
 - Basic Terminal Commands
 
-`cd` - Change directory
-`mkdir` - Change directory
-`pwd` - Where you are
-`touch` - Create Files
-`ls` - List files
-`Code .` - Open Vscode
+- `cd` - Change directory
+- `mkdir` - Change directory
+- `pwd` - Where you are
+- `touch` - Create Files
+- `ls` - List files
+- `Code .` - Open Vscode
 
 - Vscode Extensions
 
@@ -37,7 +33,7 @@
 
 - Github Gist
   https://gist.github.com/Manuel-heav/f2c224c3078b0ce59458cc1fe23884ce
-  while read line; do code --install-extension "$line";done < vscode-extensions.txt
+  `while read line; do code --install-extension "$line";done < vscode-extensions.txt`
 
 - Coding Shortcuts
 
@@ -57,5 +53,5 @@
 - Extensions
 - Search Engine
 - Why duck duck go?
-  -No tracking
-  -We have !bangs.
+  - No tracking
+  - We have !bangs.
