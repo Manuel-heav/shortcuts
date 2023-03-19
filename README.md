@@ -1,5 +1,10 @@
 - Git
-  git-scm.com -`git config --global user.name "manuel-heav"` -` git config --global user.email "manuelheav32@gmail.com"` -` winget install --id GitHub.cli` -` gh auth login`
+  git-scm.com
+
+  - `git config --global user.name "manuel-heav"`
+  - ` git config --global user.email "manuelheav32@gmail.com"`
+  - ` winget install --id GitHub.cli`
+  - ` gh auth login`
 
 - Download Node
 - Basic Terminal Commands
